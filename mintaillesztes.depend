@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1457166656 source:d:\elte201516tavaszi\algoritmusok tervezése és elemzése\ea\program\mintaillesztes\knuth.cpp
+	"knuth.h"
+	<iostream>
+
+1457166643 d:\elte201516tavaszi\algoritmusok tervezése és elemzése\ea\program\mintaillesztes\knuth.h
+	<string>
+	<vector>
+
+1457177257 source:d:\elte201516tavaszi\algoritmusok tervezése és elemzése\ea\program\mintaillesztes\main.cpp
+	<iostream>
+	<cstdlib>
+	"knuth.h"
+	"quick.h"
+
+1457177221 source:d:\elte201516tavaszi\algoritmusok tervezése és elemzése\ea\program\mintaillesztes\quick.cpp
+	"quick.h"
+	<iostream>
+
+1457177337 d:\elte201516tavaszi\algoritmusok tervezése és elemzése\ea\program\mintaillesztes\quick.h
+	<string>
+	<vector>
+
